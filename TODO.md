@@ -1,6 +1,4 @@
-- Make working input
-- Reference memory directly, remove masks
-- General code cleanup
-
-When done:
+# To be added
 - EXTI
+- NVIC
+- Systick
